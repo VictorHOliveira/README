@@ -1,38 +1,46 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Victor Oliveira</h1>
-<h3 align="center">QA Engineer Automation Senior</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VictorHOliveira&label=Profile%20views&color=0e75b6&style=flat" alt="VictorHOliveira" /> </p>
+[![EN](https://img.shields.io/badge/EN-English-blue)](README.md) · [![PT](https://img.shields.io/badge/PT-Portugu%C3%AAs-green)](README.pt-BR.md)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VictorHOliveira&theme=" alt="VictorHOliveira" /></a> </p>
+# Victor Hugo de Oliveira
 
-- 🔭 I’m currently working on **Aubay Portugal**
-- 🌱 I’m currently learning **Data Analisys and Advanced Python**
-- 💬 Ask me about **Automation Tests and Robotframework**
-- 📫 How to reach me **victor.oliver87@gmail.com**
-- 👨‍💻 All of my projects are available at **on this GitHub repositories**
-- 📄 Know about my experiences **on my LinkedIn**
+**Senior QA Automation Engineer** · 10+ years breaking software on purpose. Living in Portugal, currently at [Innowave](https://www.innowave.tech/).
 
-<div> <a href="https://www.linkedin.com/in/victor-hugo-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/VictorHOliveira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:victor.oliver87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/victor-hugo-de-oliveira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="victor-hugo-de-oliveira/" height="30" width="40" /></a></p>
+I build test automation that survives contact with real apps and I'm putting AI to work in QA pipelines: self-healing tests, LLM-assisted coverage, CI you can trust. Outside work I ship tools QA people actually use, write about testing, and make games.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-</p>
+## Now
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHOliveira&layout=compact&theme=dark" alt=VictorHOliveira />
+- **Working at:** Innowave (Portugal)
+- **Learning:** Data Analysis and advanced Python
+- **Ask me about:** Robot Framework, Playwright, Selenium, AI-assisted QA
+- **Reach me:** [victor.oliver87@gmail.com](mailto:victor.oliver87@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-de-oliveira/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorHOliveira)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.oliver87@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/victor-oliveira)
+[![QA Overflow](https://img.shields.io/badge/QA_Overflow-2ea44f?style=for-the-badge)](https://qaoverflow.com)
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+## Featured projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [scandoc](https://github.com/VictorHOliveira/scandoc) · [live](https://scandoc.qaoverflow.com) | SaaS that scans documents for hidden text, invisible zero-width characters, microtext and prompt injection | FastAPI · React · Robot Framework |
+| [QA_OverFlow](https://github.com/VictorHOliveira/QA_OverFlow) · [qaoverflow.com](https://qaoverflow.com) | Community platform and blog for QA engineers | JavaScript |
+| [QAOverFlowReport](https://github.com/VictorHOliveira/QAOverFlowReport) | JUnit XML + Robot `output.xml` into one interactive HTML report. `pip install`, zero deps | Python |
+| [SystemPurge-RougueLike](https://github.com/VictorHOliveira/SystemPurge-RougueLike) | Terminal roguelike about purging rootkits from an operating system | TypeScript · Phaser 3 · rot-js |
+| [QA OverFlow Picker](https://chromewebstore.google.com/detail/qa-overflow-picker/bbfncahdnkhfmakifaakpgbpjkpdgefj) | Chrome extension that inspects elements and generates XPath, CSS selectors and attributes for test automation | JavaScript |
+| [Victor-Robot](https://github.com/VictorHOliveira/Victor-Robot) | Base project for test automation with Robot Framework | Python |
+
+More experiments live in [my repositories](https://github.com/VictorHOliveira?tab=repositories).
+
+## Tools I use
+
+Python · Robot Framework · Playwright · Selenium · JavaScript/TypeScript · FastAPI · Docker · GitHub Actions · MySQL · PostgreSQL · Azure · Flutter
+
+## GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHOliveira&show_icons=true&theme=dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHOliveira&layout=compact&theme=dark)
+
+---
+
+I write about QA and automation on [Medium](https://medium.com/victor-oliveira) and help run the [QA Overflow](https://qaoverflow.com) community. Always open to interesting projects, good conversation and hard-to-find bugs.
